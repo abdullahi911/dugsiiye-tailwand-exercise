@@ -54,7 +54,7 @@ function saveUserData() {
     document.querySelector('.rule').style.display = 'none';
 
     setTimeout(() => {
-        window.location.href = "../html/menue.html"; 
+        window.location.href = "../hmtls/menue.html"; 
     }, 1500);
 }
 
